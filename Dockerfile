@@ -1,4 +1,4 @@
-FROM python:3
+FROM resin/raspberrypi-python:3-slim
 
 MAINTAINER Antoine Bertin <diaoulael@gmail.com>
 
